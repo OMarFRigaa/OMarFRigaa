@@ -27,9 +27,27 @@
 
 ## 🛠️ Skills & Tech Stack
 
+### 👨‍💻 Languages  
+`JavaScript` `TypeScript` `Java` `C++` `C` `Python` `SQL`
+
+### 🌐 Frontend  
+`React` `Angular` `Tailwind CSS` `HTML5` `CSS3`
+
+### ⚙️ Backend  
+`Node.js` `NestJS` `Laravel`
+
+### 🛢 Databases  
+`MongoDB` `MySQL`
+
+### 🧰 Tools & Concepts  
+`Git` `GitHub` `Postman` `JWT` `REST APIs` `CI/CD` `Linux` `Docker` `Agile` `MVC` `SDLC`
+
+---
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nestjs,nodejs,laravel,html,css,tailwind,bootstrap,mysql,mongodb,bash,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,python,react,angular,nodejs,nestjs,laravel,html,css,tailwind,mysql,mongodb,git,github,postman,docker,linux" />
 </p>
+
 
 ---
 
