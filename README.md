@@ -41,19 +41,21 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🔗 [**ATS Bridge**](https://github.com/Asem-Mohamed-321/ITI-graduation-project):  
-  *NestJS, React, MongoDB, Tailwind CSS* — ATS resume checker and job ad platform with dashboards and scoring logic.
+- 🔗 [**ATS Bridge**](https://github.com/Asem-Mohamed-321/ITI-graduation-project)  
+  *NestJS, React, MongoDB, Tailwind CSS* — ATS resume checker and job ad platform with dashboards.
 
-- 🔗 [**Wedding Planner**](https://github.com/MartinaSaid3/Wedding-Planner):  
-  *ASP.NET Core, Angular* — Platform for vendors and budget management with role-based access.
+- 🔗 [**Wedding Planner**](https://github.com/MartinaSaid3/Wedding-Planner)  
+  *ASP.NET Core, Angular* — Event planner with role-based access and budget tracking.
 
-- 🔗 [**Bash DBMS**](https://github.com/OMarFRigaa/Bash_Project):  
-  *Bash, Linux* — File-based DBMS with user management and shell scripting.
+- 🔗 [**Bash DBMS**](https://github.com/OMarFRigaa/Bash_Project)  
+  *Bash, Linux* — File-based DBMS with user management and scripting tools.
 
-- 🔗 [**E-Commerce Angular App**](https://github.com/OMarFRigaa/E-Commerce-Project-Angular):  
-  *Angular, TypeScript* — Front-end app with product listings, filters, and cart logic.
+- 🔗 [**E-Commerce Angular App**](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)  
+  *Angular, TypeScript* — Frontend for product browsing and cart functionality.
+
+👉 [**See All My Projects »**](https://github.com/OMarFRigaa?tab=repositories)
 
 ---
 
