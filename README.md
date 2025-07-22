@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hey There! 👋 I'm Omar Friga</h1>
 
-<!--
-**OMarFRigaa/OMarFRigaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/OMarFRigaa">
+    <img src="https://komarev.com/ghpvc/?username=OMarFRigaa&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/OMarFRigaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/OMarFRigaa?label=Followers&style=flat-square" alt="GitHub Followers" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+🌟 Full-stack Developer with a background in Management Information Systems  
+🔧 Strong hands-on experience in Open Source and .NET technologies  
+🧠 Fast learner with a proactive mindset and problem-solving passion  
+📐 Focused on clean architecture, scalable systems, and user-centric solutions  
+🌱 Currently enrolled in the Open Source Diploma at ITI  
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nestjs,nodejs,laravel,html,css,tailwind,bootstrap,mysql,mongodb,bash,git,github,postman,vscode" />
+</p>
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Management Information Systems (MIS)** — Alexandria University (2019–2023)  
+🎓 **Open Source Application Development Diploma** — ITI (2024–2025)  
+🎓 **.NET Full Stack Internship** — ITI (2023–2024)  
+
+---
+
+## 🚀 Projects
+
+- 🔗 [**ATS Bridge**](https://github.com/Asem-Mohamed-321/ITI-graduation-project):  
+  *NestJS, React, MongoDB, Tailwind CSS* — ATS resume checker and job ad platform with dashboards and scoring logic.
+
+- 🔗 [**Wedding Planner**](https://github.com/MartinaSaid3/Wedding-Planner):  
+  *ASP.NET Core, Angular* — Platform for vendors and budget management with role-based access.
+
+- 🔗 [**Bash DBMS**](https://github.com/OMarFRigaa/Bash_Project):  
+  *Bash, Linux* — File-based DBMS with user management and shell scripting.
+
+- 🔗 [**E-Commerce Angular App**](https://github.com/OMarFRigaa/E-Commerce-Project-Angular):  
+  *Angular, TypeScript* — Front-end app with product listings, filters, and cart logic.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OMarFRigaa&show_icons=true&theme=react" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMarFRigaa&theme=react" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMarFRigaa&layout=compact&theme=react" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OMarFRigaa&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [Portfolio](https://your-portfolio-link.com) <!-- Replace with your real portfolio link -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-friga-/)
+- 🧑‍💻 [GitHub](https://github.com/OMarFRigaa)
+- 📧 omarfriga20@gmail.com
+
+---
+
+## 😄 Fun Facts
+
+🎯 Passionate about building meaningful apps  
+⚽ Played football competitively  
+♟️ Chess and puzzle lover  
+💻 Never stop learning — always exploring new tech  
+🍕 Pizza + coding = best combo
+
