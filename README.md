@@ -81,7 +81,6 @@
 
 ## 🌐 Connect with Me
 
-- 💼 [Portfolio](https://your-portfolio-link.com) <!-- Replace with your real portfolio link -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-friga-/)
 - 🧑‍💻 [GitHub](https://github.com/OMarFRigaa)
 - 📧 omarfriga20@gmail.com
