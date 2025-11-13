@@ -48,8 +48,9 @@ Frontend app for browsing products and managing a shopping cart.
 ## 📚 Education
 
 🎓 **B.Sc. in Management Information Systems** — Alexandria University (2019–2023)  
-🎓 **Open Source Application Development Diploma** — ITI (2024–2025)  
 🎓 **.NET Full Stack Internship** — ITI (2023–2024)
+🎓 **Open Source Application Development Diploma** — ITI (2024–2025)  
+
 
 ---
 
