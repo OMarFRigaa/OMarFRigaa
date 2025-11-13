@@ -1,15 +1,19 @@
 <h1 align="center">👋 Hey there! I'm Omar Friga</h1>
-<h3 align="center">Full Stack Developer | Open Source & .NET Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MIS Graduate from Alexandria University  
-- 🧩 Full Stack Developer with hands-on experience in **Open Source** & **.NET** technologies  
+- 🎓 MIS Graduate — Alexandria University  
+- 🧩 Full Stack Developer with hands-on experience in **Open Source** & **.NET**  
 - 🚀 Passionate about building scalable, user-centric web apps  
-- 🌱 Currently expanding my skills in **DevOps & Cloud Technologies**  
-- 💡 I love solving problems, writing clean code, and learning new stacks
+- 🌱 Currently learning **CI/CD, cloud deployment, and advanced system design**  
+- 💡 Fast learner, problem solver, and always exploring new tech  
 
 ---
 
@@ -25,15 +29,15 @@
 
 ### 🔗 [ATS Bridge](https://github.com/Asem-Mohamed-321/ITI-graduation-project)
 **NestJS | React | MongoDB | TailwindCSS**  
-Applicant Tracking System with smart resume parsing and admin dashboards.
+ATS resume checker and job ad platform with dashboards.
 
 ### 🔗 [Wedding Planner](https://github.com/MartinaSaid3/Wedding-Planner)
 **ASP.NET Core | Angular**  
-Role-based event planning platform with budgeting and task management.
+Event planner with role-based access and budget tracking.
 
 ### 🔗 [Bash DBMS](https://github.com/OMarFRigaa/Bash_Project)
 **Bash | Linux**  
-CLI-based mini DBMS for practicing shell scripting and data handling.
+File-based DBMS for practice with scripting and user management.
 
 ### 🔗 [E-Commerce Angular App](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)
 **Angular | TypeScript**  
@@ -51,8 +55,8 @@ Frontend app for browsing products and managing a shopping cart.
 
 ## 📈 Currently
 
-- 🔭 Working on: building modern full-stack web apps  
-- 🧠 Learning: CI/CD pipelines, cloud deployment, and system design  
+- 🔭 Working on: modern full-stack web apps  
+- 🧠 Learning: CI/CD pipelines, cloud deployment, system design  
 - 🤝 Open to: full-time opportunities & collaborations  
 
 ---
@@ -70,6 +74,6 @@ Frontend app for browsing products and managing a shopping cart.
 ## 😄 Fun Facts
 
 - ⚽ Ex-football player turned coder  
-- ♟️ Chess & puzzle enthusiast  
-- 🍕 Pizza + coding = perfect combo  
+- ♟️ Chess & puzzle lover  
+- 🍕 Pizza + coding = best combo  
 - 💻 “Build. Learn. Improve. Repeat.”
