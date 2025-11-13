@@ -1,115 +1,75 @@
-<h1 align="center">Hey There! 👋 I'm Omar Friga</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
-<p align="center">
-  <a href="https://github.com/OMarFRigaa">
-    <img src="https://komarev.com/ghpvc/?username=OMarFRigaa&style=flat-square&color=blue" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/OMarFRigaa?tab=followers">
-    <img src="https://img.shields.io/github/followers/OMarFRigaa?label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a>
-</p>
+<h1 align="center">👋 Hey there! I'm Omar Friga</h1>
+<h3 align="center">Full Stack Developer | Open Source & .NET Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 Full-stack Developer with a background in Management Information Systems  
-🔧 Strong hands-on experience in Open Source and .NET technologies  
-🧠 Fast learner with a proactive mindset and problem-solving passion  
-📐 Focused on clean architecture, scalable systems, and user-centric solutions  
-🌱 Currently enrolled in the Open Source Diploma at ITI  
+- 🎓 MIS Graduate from Alexandria University  
+- 🧩 Full Stack Developer with hands-on experience in **Open Source** & **.NET** technologies  
+- 🚀 Passionate about building scalable, user-centric web apps  
+- 🌱 Currently expanding my skills in **DevOps & Cloud Technologies**  
+- 💡 I love solving problems, writing clean code, and learning new stacks
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠 Tech Stack
 
-### 👨‍💻 Languages  
-`JavaScript` `TypeScript` `Java` `C++` `C` `Python` `SQL`
-
-### 🌐 Frontend  
-`React` `Angular` `Tailwind CSS` `HTML5` `CSS3`
-
-### ⚙️ Backend  
-`Node.js` `NestJS` `Laravel`
-
-### 🛢 Databases  
-`MongoDB` `MySQL`
-
-### 🧰 Tools & Concepts  
-`Git` `GitHub` `Postman` `JWT` `REST APIs` `CI/CD` `Linux` `Docker` `Agile` `MVC` `SDLC`
-
----
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,python,react,angular,nodejs,nestjs,laravel,html,css,tailwind,mysql,mongodb,git,github,postman,docker,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,nestjs,laravel,html,css,tailwind,java,cpp,python,mysql,mongodb,docker,git,github,postman,linux" />
 </p>
-
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Management Information Systems (MIS)** — Alexandria University (2019–2023)  
-🎓 **Open Source Application Development Diploma** — ITI (2024–2025)  
-🎓 **.NET Full Stack Internship** — ITI (2023–2024)  
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔗 [**ATS Bridge**](https://github.com/Asem-Mohamed-321/ITI-graduation-project)  
-  *NestJS, React, MongoDB, Tailwind CSS* — ATS resume checker and job ad platform with dashboards.
+### 🔗 [ATS Bridge](https://github.com/Asem-Mohamed-321/ITI-graduation-project)
+**NestJS | React | MongoDB | TailwindCSS**  
+Applicant Tracking System with smart resume parsing and admin dashboards.
 
-- 🔗 [**Wedding Planner**](https://github.com/MartinaSaid3/Wedding-Planner)  
-  *ASP.NET Core, Angular* — Event planner with role-based access and budget tracking.
+### 🔗 [Wedding Planner](https://github.com/MartinaSaid3/Wedding-Planner)
+**ASP.NET Core | Angular**  
+Role-based event planning platform with budgeting and task management.
 
-- 🔗 [**Bash DBMS**](https://github.com/OMarFRigaa/Bash_Project)  
-  *Bash, Linux* — File-based DBMS with user management and scripting tools.
+### 🔗 [Bash DBMS](https://github.com/OMarFRigaa/Bash_Project)
+**Bash | Linux**  
+CLI-based mini DBMS for practicing shell scripting and data handling.
 
-- 🔗 [**E-Commerce Angular App**](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)  
-  *Angular, TypeScript* — Frontend for product browsing and cart functionality.
-
-👉 [**See All My Projects »**](https://github.com/OMarFRigaa?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMarFRigaa&show_icons=true&theme=react" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMarFRigaa&theme=react" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMarFRigaa&layout=compact&theme=react" />
-</p>
+### 🔗 [E-Commerce Angular App](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)
+**Angular | TypeScript**  
+Frontend app for browsing products and managing a shopping cart.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📚 Education
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OMarFRigaa&theme=onedark&row=1&column=6" />
-</p>
+🎓 **B.Sc. in Management Information Systems** — Alexandria University (2019–2023)  
+🎓 **Open Source Application Development Diploma** — ITI (2024–2025)  
+🎓 **.NET Full Stack Internship** — ITI (2023–2024)
+
+---
+
+## 📈 Currently
+
+- 🔭 Working on: building modern full-stack web apps  
+- 🧠 Learning: CI/CD pipelines, cloud deployment, and system design  
+- 🤝 Open to: full-time opportunities & collaborations  
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/omar-friga-/)
-- 🧑‍💻 [GitHub](https://github.com/OMarFRigaa)
-- 📧 omarfriga20@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-friga-/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://github.com/OMarFRigaa"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="mailto:omarfriga20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+</p>
 
 ---
 
 ## 😄 Fun Facts
 
-🎯 Passionate about building meaningful apps  
-⚽ Played football competitively  
-♟️ Chess and puzzle lover  
-💻 Never stop learning — always exploring new tech  
-🍕 Pizza + coding = best combo
-
+- ⚽ Ex-football player turned coder  
+- ♟️ Chess & puzzle enthusiast  
+- 🍕 Pizza + coding = perfect combo  
+- 💻 “Build. Learn. Improve. Repeat.”
