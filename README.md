@@ -1,79 +1,95 @@
-<h1 align="center">👋 Hey there! I'm Omar Friga</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+<h1 align="center">Omar Friga</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+  <strong>Software Engineer · Enterprise Java & Full-Stack Development</strong>
+</p>
+
+<p align="center">
+  Alexandria, Egypt · Open to relocation and international opportunities
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-friga-/">LinkedIn</a> •
+  <a href="mailto:omarfriga20@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 MIS Graduate — Alexandria University  
-- 🧩 Full Stack Developer with hands-on experience in **.NET** & **Open Source**  
-- 🚀 Passionate about building scalable, user-centric web apps  
-- 🌱 Currently learning **CI/CD, cloud deployment, and advanced system design**  
-- 💡 Fast learner, problem solver, and always exploring new tech  
+Software Engineer focused on building reliable, maintainable web and enterprise applications.
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,nestjs,laravel,html,css,tailwind,java,cpp,python,mysql,mongodb,docker,git,github,postman,linux" />
-</p>
+- Building enterprise applications with **Java EE, EJB, JSF, PrimeFaces, Oracle Database, and SQL**
+- Full-stack background across **NestJS, Node.js, React, Angular, Next.js, ASP.NET Core, and MongoDB**
+- Comfortable with **REST APIs, MVC, Git/GitLab/SVN, Docker, CI/CD, Jenkins, Flyway, and Linux**
+- ITI graduate with training in **Open Source Application Development** and **.NET Full Stack Development**
+- Interested in backend engineering, clean architecture, databases, system design, and production-quality software
 
 ---
 
-## 🚀 Featured Projects
+## Core Technologies
 
-### 🔗 [ATS Bridge](https://github.com/Asem-Mohamed-321/ITI-graduation-project)
-**NestJS | React | MongoDB | TailwindCSS**  
-ATS resume checker and job ad platform with dashboards.
-
-### 🔗 [Wedding Planner](https://github.com/MartinaSaid3/Wedding-Planner)
-**ASP.NET Core | Angular**  
-Event planner with role-based access and budget tracking.
-
-### 🔗 [Bash DBMS](https://github.com/OMarFRigaa/Bash_Project)
-**Bash | Linux**  
-File-based DBMS for practice with scripting and user management.
-
-### 🔗 [E-Commerce Angular App](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)
-**Angular | TypeScript**  
-Frontend app for browsing products and managing a shopping cart.
+| Area | Technologies |
+| --- | --- |
+| **Enterprise / Backend** | Java, Java EE, EJB, JSF, PrimeFaces, Node.js, NestJS, REST APIs |
+| **Frontend** | React, Angular, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
+| **Databases** | Oracle Database, SQL, MongoDB |
+| **Engineering Tools** | Git, GitHub, GitLab, SVN, Docker, Jenkins, CI/CD, Flyway, Linux |
+| **Additional** | ASP.NET Core, Bash/Shell scripting |
 
 ---
 
-## 📚 Education
+## Selected Projects
 
-🎓 **B.Sc. in Management Information Systems** — Alexandria University (2019–2023)  
-🎓 **.NET Full Stack Internship** — ITI (2023–2024)  
-🎓 **Open Source Application Development Diploma** — ITI (2024–2025)
+### [Postify](https://github.com/OMarFRigaa/React-Project)
+**React · TypeScript · Vite · Tailwind CSS · shadcn/ui**
+
+A responsive post-management application focused on reusable UI, authentication flows, ownership-aware actions, and modern React development practices.
+
+### [Angular E-Commerce App](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)
+**Angular · TypeScript**
+
+An Angular application demonstrating reactive forms, validation, component communication, dynamic data rendering, and responsive UI development.
+
+### [Bash DBMS](https://github.com/OMarFRigaa/Bash_Project)
+**Bash · Linux**
+
+A file-based database management system built with shell scripting, supporting core CRUD-style database operations and command-line workflows.
+
+### [ATS Bridge](https://github.com/Asem-Mohamed-321/ITI-graduation-project)
+**NestJS · React · MongoDB · Tailwind CSS**
+
+A team-built ATS platform combining resume checking, job advertisements, authentication, and role-based dashboards.
+
+### [Wedding Planner](https://github.com/MartinaSaid3/Wedding-Planner)
+**ASP.NET Core · Angular · SQL**
+
+A team project for wedding planning and vendor management with role-based functionality, booking workflows, and budget tracking.
 
 ---
 
-## 📈 Currently
+## Education & Training
 
-- 🔭 Working on: modern full-stack web apps  
-- 🧠 Learning: CI/CD pipelines, cloud deployment, system design  
-- 🤝 Open to: full-time opportunities & collaborations  
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-friga-/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://github.com/OMarFRigaa"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="mailto:omarfriga20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
-</p>
+- **B.Sc. in Management Information Systems** — Alexandria University
+- **Open Source Application Development Diploma** — Information Technology Institute (ITI)
+- **.NET Full Stack Web Development Training** — Information Technology Institute (ITI)
 
 ---
 
-## 😄 Fun Facts
+## Current Focus
 
-- ⚽ Ex-football player turned coder  
-- ♟️ Chess & puzzle lover  
-- 🍕 Pizza + coding = best combo  
-- 💻 “Build. Learn. Improve. Repeat.”
+I’m continuing to deepen my experience in:
+
+- Enterprise Java and backend development
+- Oracle and relational database design
+- CI/CD and deployment workflows
+- System design and maintainable architecture
+- Building production-quality projects with clear documentation and testing
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/omar-friga-](https://www.linkedin.com/in/omar-friga-/)
+- **GitHub:** [github.com/OMarFRigaa](https://github.com/OMarFRigaa)
+- **Email:** [omarfriga20@gmail.com](mailto:omarfriga20@gmail.com)
