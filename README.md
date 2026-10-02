@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Omar%20Friga&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Enterprise%20Java%20%7C%20Full-Stack&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Omar%20Friga&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20ISFP%20%7C%20Enterprise%20Java%20%7C%20Full-Stack&descAlignY=60&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Building+reliable+enterprise+applications;Java+EE+%7C+EJB+%7C+JSF+%7C+PrimeFaces+%7C+Oracle;Backend+Engineering+%7C+APIs+%7C+Databases+%7C+CI%2FCD;Clean+code.+Maintainable+systems.+Continuous+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=820&lines=Software+Engineer+%40+ISFP;Java+EE+%7C+EJB+%7C+JSF+%7C+PrimeFaces;Oracle+%7C+SQL+Server+%7C+PostgreSQL+%7C+MySQL;Backend+Engineering+%7C+APIs+%7C+Databases+%7C+CI%2FCD;Clean+code.+Maintainable+systems.+Continuous+learning." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,29 +24,57 @@
 
 ## 👨‍💻 About Me
 
-```java
+~~~java
 public class OmarFriga {
     String role = "Software Engineer";
+    String company = "ISFP";
     String focus = "Enterprise Java & Backend Engineering";
     String location = "Alexandria, Egypt";
     boolean openToRelocation = true;
 
-    String[] workingWith = {
+    String[] backend = {
         "Java EE", "EJB", "JSF", "PrimeFaces",
-        "Oracle Database", "SQL", "REST APIs"
+        "Node.js", "NestJS", "REST APIs"
+    };
+
+    String[] databases = {
+        "Oracle Database", "SQL Server",
+        "PostgreSQL", "MySQL", "MongoDB"
     };
 
     String mindset = "Build. Learn. Improve. Repeat.";
 }
-```
+~~~
 
 I build reliable, maintainable web and enterprise applications with a strong focus on **backend engineering, databases, clean architecture, and production-quality software**.
 
-- ⚙️ Working with **Java EE, EJB, JSF, PrimeFaces, Oracle Database, and SQL**
+- 💼 Currently working as a **Software Engineer at ISFP**
+- ⚙️ Working with **Java EE, EJB, JSF, PrimeFaces, Oracle Database, SQL, and enterprise application development**
 - 🌐 Full-stack experience with **NestJS, Node.js, React, Angular, Next.js, and ASP.NET Core**
-- 🧰 Comfortable with **REST APIs, Git, GitLab, SVN, Docker, Jenkins, CI/CD, Flyway, and Linux**
+- 🗄️ Database experience with **Oracle Database, Microsoft SQL Server, PostgreSQL, MySQL, and MongoDB**
+- 🧰 Comfortable with **REST APIs, Git, GitHub, GitLab, SVN, Docker, Jenkins, CI/CD, Flyway, Maven, Postman, and Linux**
 - 🎓 ITI graduate in **Open Source Application Development** with additional **.NET Full Stack** training
-- 📚 Currently deepening my knowledge of **system design, testing, deployment, and scalable backend architecture**
+- 📚 Currently deepening my knowledge of **system design, testing, deployment, database design, and scalable backend architecture**
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td valign="top">
+
+### Software Engineer — ISFP
+**Jan 2026 — Present**
+
+Working on enterprise software with a backend-focused stack, contributing to business applications, database-driven workflows, maintenance, and ongoing feature development.
+
+**Core stack:**  
+Java EE · EJB · JSF · PrimeFaces · Oracle Database · SQL · REST APIs · Git · SVN
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,10 +83,10 @@ I build reliable, maintainable web and enterprise applications with a strong foc
 ### Backend & Enterprise
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,dotnet,maven" />
 </p>
 
-**Java EE · EJB · JSF · PrimeFaces · REST APIs · MVC**
+**Java EE · EJB · JSF · PrimeFaces · REST APIs · MVC · ASP.NET Core**
 
 ### Frontend
 
@@ -69,18 +97,26 @@ I build reliable, maintainable web and enterprise applications with a strong foc
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-**Oracle Database · SQL · Relational Data Modeling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**SQL · Relational Data Modeling · Database Design · Queries · CRUD · Data Management**
 
 ### Engineering & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,linux,postman,maven" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,linux,postman" />
 </p>
 
-**CI/CD · SVN · Flyway · Git workflows**
+**CI/CD · SVN · Flyway · Git workflows · Version Control · Deployment Workflows**
 
 ---
 
@@ -132,7 +168,7 @@ Team-built applicant tracking platform with resume checking, job advertisements,
 
 ### 💍 [Wedding Planner](https://github.com/MartinaSaid3/Wedding-Planner)
 
-**ASP.NET Core · Angular · SQL**
+**ASP.NET Core · Angular · SQL Server**
 
 Team project for wedding planning and vendor management featuring role-based functionality, booking workflows, and budget tracking.
 
@@ -161,21 +197,24 @@ Team project for wedding planning and vendor management featuring role-based fun
 
 ## 🎯 Current Focus
 
-```text
+~~~text
 Enterprise Java       ███████████████████░
 Oracle & SQL          ███████████████████░
+Database Engineering  ██████████████████░░
 Backend Architecture  ██████████████████░░
 CI/CD & DevOps        ███████████████░░░░░
 System Design         ███████████████░░░░░
 Testing               ██████████████░░░░░░
-```
+~~~
 
 > Building stronger backend systems today than I built yesterday.
 
 ---
 
+## 🤝 Let's Connect
+
 <p align="center">
-  <b>Interested in software engineering, backend development, enterprise systems, and building useful products.</b>
+  <b>Software Engineering · Backend Development · Enterprise Systems · Databases · Full-Stack Development</b>
 </p>
 
 <p align="center">
