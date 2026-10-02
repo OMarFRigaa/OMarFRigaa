@@ -1,95 +1,185 @@
-<h1 align="center">Omar Friga</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Omar%20Friga&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Enterprise%20Java%20%7C%20Full-Stack&descAlignY=60&descSize=18" />
 
 <p align="center">
-  <strong>Software Engineer · Enterprise Java & Full-Stack Development</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Building+reliable+enterprise+applications;Java+EE+%7C+EJB+%7C+JSF+%7C+PrimeFaces+%7C+Oracle;Backend+Engineering+%7C+APIs+%7C+Databases+%7C+CI%2FCD;Clean+code.+Maintainable+systems.+Continuous+learning." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Alexandria, Egypt · Open to relocation and international opportunities
+  <a href="https://www.linkedin.com/in/omar-friga-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Friga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omarfriga20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-omarfriga20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/OMarFRigaa">
+    <img src="https://img.shields.io/badge/GitHub-OMarFRigaa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-friga-/">LinkedIn</a> •
-  <a href="mailto:omarfriga20@gmail.com">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=OMarFRigaa&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Software Engineer focused on building reliable, maintainable web and enterprise applications.
+```java
+public class OmarFriga {
+    String role = "Software Engineer";
+    String focus = "Enterprise Java & Backend Engineering";
+    String location = "Alexandria, Egypt";
+    boolean openToRelocation = true;
 
-- Building enterprise applications with **Java EE, EJB, JSF, PrimeFaces, Oracle Database, and SQL**
-- Full-stack background across **NestJS, Node.js, React, Angular, Next.js, ASP.NET Core, and MongoDB**
-- Comfortable with **REST APIs, MVC, Git/GitLab/SVN, Docker, CI/CD, Jenkins, Flyway, and Linux**
-- ITI graduate with training in **Open Source Application Development** and **.NET Full Stack Development**
-- Interested in backend engineering, clean architecture, databases, system design, and production-quality software
+    String[] workingWith = {
+        "Java EE", "EJB", "JSF", "PrimeFaces",
+        "Oracle Database", "SQL", "REST APIs"
+    };
+
+    String mindset = "Build. Learn. Improve. Repeat.";
+}
+```
+
+I build reliable, maintainable web and enterprise applications with a strong focus on **backend engineering, databases, clean architecture, and production-quality software**.
+
+- ⚙️ Working with **Java EE, EJB, JSF, PrimeFaces, Oracle Database, and SQL**
+- 🌐 Full-stack experience with **NestJS, Node.js, React, Angular, Next.js, and ASP.NET Core**
+- 🧰 Comfortable with **REST APIs, Git, GitLab, SVN, Docker, Jenkins, CI/CD, Flyway, and Linux**
+- 🎓 ITI graduate in **Open Source Application Development** with additional **.NET Full Stack** training
+- 📚 Currently deepening my knowledge of **system design, testing, deployment, and scalable backend architecture**
 
 ---
 
-## Core Technologies
+## ⚡ Tech Stack
 
-| Area | Technologies |
-| --- | --- |
-| **Enterprise / Backend** | Java, Java EE, EJB, JSF, PrimeFaces, Node.js, NestJS, REST APIs |
-| **Frontend** | React, Angular, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
-| **Databases** | Oracle Database, SQL, MongoDB |
-| **Engineering Tools** | Git, GitHub, GitLab, SVN, Docker, Jenkins, CI/CD, Flyway, Linux |
-| **Additional** | ASP.NET Core, Bash/Shell scripting |
+### Backend & Enterprise
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,dotnet" />
+</p>
+
+**Java EE · EJB · JSF · PrimeFaces · REST APIs · MVC**
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Oracle Database · SQL · Relational Data Modeling**
+
+### Engineering & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,linux,postman,maven" />
+</p>
+
+**CI/CD · SVN · Flyway · Git workflows**
 
 ---
 
-## Selected Projects
+## 🚀 Featured Work
 
-### [Postify](https://github.com/OMarFRigaa/React-Project)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Postify](https://github.com/OMarFRigaa/React-Project)
+
 **React · TypeScript · Vite · Tailwind CSS · shadcn/ui**
 
-A responsive post-management application focused on reusable UI, authentication flows, ownership-aware actions, and modern React development practices.
+Responsive post-management application with reusable components, authentication flows, ownership-aware actions, and a modern frontend architecture.
 
-### [Angular E-Commerce App](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [Angular E-Commerce](https://github.com/OMarFRigaa/E-Commerce-Project-Angular)
+
 **Angular · TypeScript**
 
-An Angular application demonstrating reactive forms, validation, component communication, dynamic data rendering, and responsive UI development.
+Frontend application demonstrating reactive forms, validation, component communication, dynamic rendering, and responsive UI development.
 
-### [Bash DBMS](https://github.com/OMarFRigaa/Bash_Project)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ [Bash DBMS](https://github.com/OMarFRigaa/Bash_Project)
+
 **Bash · Linux**
 
-A file-based database management system built with shell scripting, supporting core CRUD-style database operations and command-line workflows.
+File-based database management system implementing CRUD-style operations, input validation, file handling, and command-line workflows.
 
-### [ATS Bridge](https://github.com/Asem-Mohamed-321/ITI-graduation-project)
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [ATS Bridge](https://github.com/Asem-Mohamed-321/ITI-graduation-project)
+
 **NestJS · React · MongoDB · Tailwind CSS**
 
-A team-built ATS platform combining resume checking, job advertisements, authentication, and role-based dashboards.
+Team-built applicant tracking platform with resume checking, job advertisements, authentication, and role-based dashboards.
 
-### [Wedding Planner](https://github.com/MartinaSaid3/Wedding-Planner)
+</td>
+</tr>
+</table>
+
+### 💍 [Wedding Planner](https://github.com/MartinaSaid3/Wedding-Planner)
+
 **ASP.NET Core · Angular · SQL**
 
-A team project for wedding planning and vendor management with role-based functionality, booking workflows, and budget tracking.
+Team project for wedding planning and vendor management featuring role-based functionality, booking workflows, and budget tracking.
 
 ---
 
-## Education & Training
+## 📊 GitHub Activity
 
-- **B.Sc. in Management Information Systems** — Alexandria University
-- **Open Source Application Development Diploma** — Information Technology Institute (ITI)
-- **.NET Full Stack Web Development Training** — Information Technology Institute (ITI)
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=OMarFRigaa&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=3B82F6&icon_color=7C3AED&text_color=64748B" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMarFRigaa&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=64748B" />
+</p>
 
----
-
-## Current Focus
-
-I’m continuing to deepen my experience in:
-
-- Enterprise Java and backend development
-- Oracle and relational database design
-- CI/CD and deployment workflows
-- System design and maintainable architecture
-- Building production-quality projects with clear documentation and testing
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OMarFRigaa&hide_border=true&background=00000000&ring=3B82F6&fire=7C3AED&currStreakLabel=3B82F6&sideLabels=64748B&dates=64748B" />
+</p>
 
 ---
 
-## Contact
+## 🎓 Education & Training
 
-- **LinkedIn:** [linkedin.com/in/omar-friga-](https://www.linkedin.com/in/omar-friga-/)
-- **GitHub:** [github.com/OMarFRigaa](https://github.com/OMarFRigaa)
-- **Email:** [omarfriga20@gmail.com](mailto:omarfriga20@gmail.com)
+- 🎓 **B.Sc. in Management Information Systems** — Alexandria University
+- 💻 **Open Source Application Development Diploma** — Information Technology Institute (ITI)
+- 🧩 **.NET Full Stack Web Development Training** — Information Technology Institute (ITI)
+
+---
+
+## 🎯 Current Focus
+
+```text
+Enterprise Java       ███████████████████░
+Oracle & SQL          ███████████████████░
+Backend Architecture  ██████████████████░░
+CI/CD & DevOps        ███████████████░░░░░
+System Design         ███████████████░░░░░
+Testing               ██████████████░░░░░░
+```
+
+> Building stronger backend systems today than I built yesterday.
+
+---
+
+<p align="center">
+  <b>Interested in software engineering, backend development, enterprise systems, and building useful products.</b>
+</p>
+
+<p align="center">
+  <a href="mailto:omarfriga20@gmail.com">Let's connect and build something useful.</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" />
